@@ -1,6 +1,6 @@
 
 import AboutPage from './components/About';
-import ContactPage from './components/contact';
+import ContactPage from './components/Contact';
 import HeroSection from './components/Herosection';
 import ProjectPage from './components/Projects';
 import SkillsPage from './components/Skills';
