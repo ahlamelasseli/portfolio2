@@ -8,7 +8,7 @@ import machyana from "../assets/images/machy_ana.jpg"
 const images ={
  logo,
     easyfolio,
-    quickstart,
+    // quickstart,
     restaurantly,
     library,
     machyana,
