@@ -15,7 +15,7 @@ const ProjectPage = () => {
     {
       id: 2,
       title: "QuickStart",
-      image: images.quickstart,
+      image: images.easyfolio,
       technologies: ["HTML", "CSS"],
       liveUrl: "https://elroumaissaa-aalam.github.io/QuickStart/",
       githubUrl: "https://github.com/Elroumaissaa-aalam/QuickStart"
